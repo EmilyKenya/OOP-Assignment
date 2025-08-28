@@ -1,4 +1,4 @@
-# Book Class Project 📚
+# Book Class Project
 
 This project demonstrates the creation of a Python class representing a book, including physical and digital formats. It explores **object-oriented programming concepts** like **inheritance** and **polymorphism**.
 
